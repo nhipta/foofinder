@@ -3,7 +3,7 @@ package foofinder
 import (
 	"testing"
 
-	"github.com/bmizerany/assert"
+	"../github.com/bmizerany/assert"
 )
 
 func TestIsItFoo(t *testing.T) {
